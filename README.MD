@@ -33,7 +33,7 @@ Copilot：
 | Ação | Prompt |
 |---|---|
 | Título | Crie um título de um pequeno ebook que possui como tema o SQL. O título deve expressar a ideia de um livro que  explica os primeiros passos para entender essa linguagem. Foque em títulos inéditos, autorais. |
-| Conteúdo |  |
+| Conteúdo | Faça uma narrativa que exemplifique a vida de bibliotecários e arquivistas antes da existência de bancos de dados e sql |
 
 
 ## ✨ Features
